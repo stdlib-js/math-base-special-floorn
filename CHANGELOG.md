@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-29)
+## Unreleased (2025-06-20)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`f63f8df`](https://github.com/stdlib-js/stdlib/commit/f63f8df9abf7a7ddf9de4e895a64e4699d2f378b) - **style:** remove header section comments from C files _(by Philipp Burckhardt)_
 -   [`3408293`](https://github.com/stdlib-js/stdlib/commit/340829337789351817a297fd78fac9fc96b1701a) - **refactor:** replace `pow` with `stdlib_base_pow` [(#6369)](https://github.com/stdlib-js/stdlib/pull/6369) _(by Karan Anand)_
 -   [`57efa3d`](https://github.com/stdlib-js/stdlib/commit/57efa3d9de9c4c2f0a94387079e356dad7649a40) - **chore:** rename C files to follow current project conventions [(#6410)](https://github.com/stdlib-js/stdlib/pull/6410) _(by Karan Anand, stdlib-bot)_
 -   [`3a03010`](https://github.com/stdlib-js/stdlib/commit/3a030103e5405100c7663a76c0f98cefa13bad78) - **bench:** update random value generation [(#6204)](https://github.com/stdlib-js/stdlib/pull/6204) _(by Harsh)_
@@ -26,10 +27,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Harsh
 -   Karan Anand
+-   Philipp Burckhardt
 
 </section>
 
