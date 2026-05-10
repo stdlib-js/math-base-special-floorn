@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-01)
+## Unreleased (2026-05-10)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#11983](https://github.com/stdlib-js/stdlib/issues/11983)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,7 @@
 
 <details>
 
+-   [`245721a`](https://github.com/stdlib-js/stdlib/commit/245721a27bef29698e641c0a718c649b01da2736) - **chore:** address JavaScript lint error [(#12074)](https://github.com/stdlib-js/stdlib/pull/12074) _(by Akshit Jain)_
 -   [`59c9969`](https://github.com/stdlib-js/stdlib/commit/59c9969a580e74428505ba91634607f110ec71bf) - **bench:** refactor to use string interpolation in `math/base/special` [(#11388)](https://github.com/stdlib-js/stdlib/pull/11388) _(by Karan Anand)_
 
 </details>
@@ -24,8 +37,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Akshit Jain
 -   Karan Anand
 
 </section>
