@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-03)
+## Unreleased (2026-08-27)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`b69f125`](https://github.com/stdlib-js/stdlib/commit/b69f125e64207b556cf745414f2d67b59758b514) - **docs:** add equations [(#14689)](https://github.com/stdlib-js/stdlib/pull/14689) _(by Karan Anand)_
 -   [`a718677`](https://github.com/stdlib-js/stdlib/commit/a718677c04734ead16ef194ef86f9c2cb34b446c) - **test:** migrate `math/base/special/floorn` to ULP-based testing [(#13883)](https://github.com/stdlib-js/stdlib/pull/13883) _(by Philipp Burckhardt)_
 -   [`906bab9`](https://github.com/stdlib-js/stdlib/commit/906bab98b9f33bc8c3a92e58eeafa2942990d5ab) - **docs:** propagate lint and example fixes to `math` and `stats` siblings [(#12146)](https://github.com/stdlib-js/stdlib/pull/12146) _(by Philipp Burckhardt)_
 -   [`245721a`](https://github.com/stdlib-js/stdlib/commit/245721a27bef29698e641c0a718c649b01da2736) - **chore:** address JavaScript lint error [(#12074)](https://github.com/stdlib-js/stdlib/pull/12074) _(by Akshit Jain)_
